@@ -1,0 +1,38 @@
+h1{
+	font-size: 400%;
+	text-align: center;
+	color: red;
+	border-style: solid;
+	border-color: black;
+}
+article{
+	font-size: 150%;
+	color:green;
+}
+h3{
+	color: red; 
+	font-size: 400%; 
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+}
+h2
+{
+	font-size: 200%;
+	color: green;
+}
+img{
+	height: 400px;
+	width:1000px;
+}
+body{
+	background-image: url("Bk5.PNG");
+}
+h4{
+	color: green;
+	font-size: 200%;
+}
+h5{
+	color: green;
+	font-size: 150%;
+}
